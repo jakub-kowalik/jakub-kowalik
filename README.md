@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+| ![QR code](/canvas.png) |  I'm civilian computer science undergraduate at Military University of Technology in Warsaw. Currently my main interest is Java technology stack.
+
 <!--
 **jakub-kowalik/jakub-kowalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
