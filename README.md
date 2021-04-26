@@ -1,4 +1,3 @@
-# Howdy partner 🤠
 
 | <img src="canvas.png" alt="drawing" width="984"/> | I'm civilian computer science engineering undergraduate at [Military University of Technology in Warsaw](https://en.wikipedia.org/wiki/Military_University_of_Technology). Currently my main interest is Java and Spring. |
 | :---: | :--- |
