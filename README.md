@@ -1,5 +1,5 @@
 
-| <img src="canvas.png" alt="drawing" width="984"/> | I'm civilian computer science engineering undergraduate at [Military University of Technology in Warsaw](https://en.wikipedia.org/wiki/Military_University_of_Technology). Currently my main interest is Java and Spring. |
+| <img src="canvas.png" alt="QR code for www.jakubkowalik.pl" width="984"/> | I have an engineering degree in computer science from the [Military University of Technology in Warsaw](https://en.wikipedia.org/wiki/Military_University_of_Technology). I am currently pursuing a master's degree in artificial intelligence and machine learning at the [Łódź University of Technology](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_University_of_Technology).|
 | :---: | :--- |
 
 
